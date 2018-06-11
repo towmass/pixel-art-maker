@@ -1,0 +1,2 @@
+New makeGrid function's code took 4.600000014761463 milliseconds to be executed.
+Old makeGrid function's code took 12.499999982537702 milliseconds to be executed.
