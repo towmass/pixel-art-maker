@@ -1,0 +1,79 @@
+body {
+    text-align: center;
+    background: url("http://www.textures4photoshop.com/tex/images/header/space-background-with-starfield-free-download.jpg");
+    background-size: cover;
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.479);
+    width: 50%;
+    height: 1500px;
+    margin: auto;
+}
+
+.colorPicker {
+    width: 12%;
+    height: 3%;
+}
+
+input {
+    border-radius: 4px;
+}
+
+input[type=number] {
+    background-color: rgba(255, 255, 255, 0.61);
+    height: 34px;
+    color: rgb(112, 9, 160);
+    border: none;
+    font-size: 18px;
+    text-align: center;
+}
+
+input[type=button] {
+    background-color: rgba(131, 1, 136, 0.795);
+    height: 36px;
+    color: rgb(255, 255, 255);
+    border: none;
+    font-size: 18px;
+    text-align: center;
+}
+
+h1 {
+    font-family: Monoton;
+    font-size: 70px;
+    margin: 0.2em;
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid rgba(255, 255, 255, 0.329);
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+}
