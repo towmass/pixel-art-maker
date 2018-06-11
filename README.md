@@ -1,4 +1,4 @@
-# Pixel Art Maker Project
+# Pixel Art Maker Project 2018
 
 ## Table of Contents
 
